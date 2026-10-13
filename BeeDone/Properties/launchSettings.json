@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BeeDone (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BeeDone (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
